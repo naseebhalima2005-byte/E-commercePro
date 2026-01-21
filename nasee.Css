@@ -1,0 +1,103 @@
+  body{
+            margin: 0%;
+            padding:0%;
+        }
+       div.na h1{
+        display:inline;
+       }
+       .con{
+        text-align: center;
+       }
+       .f2{
+        margin-left: 70%;
+        font-size:20px;
+       }
+        div.f3 ul{
+            margin:0%;
+            padding:0%;
+            list-style-type: none;
+            background-color:blanchedalmond;
+            overflow:hidden;
+        }
+        li{
+            float:left;
+            padding:10px;
+        }
+        li a{
+            text-decoration: none;
+            color:black;
+            font-size: 20px;
+        }
+        h1{
+            color:blue;
+        }
+        .f4{
+            display:block;
+            position: relative;
+        }
+         ol{
+            overflow: hidden;
+            list-style: none;
+        }
+        button{
+            width: 100px;
+            height: 50px;
+            border: none;
+            border-radius: 10px;
+            background-color: aquamarine;
+            text-align: center;
+        } 
+        div.ns{
+            text-align: center;
+            padding:4px;
+            background-color: blue;
+            color:white;
+        }
+        div.lm{
+            margin: 20px;
+        }
+        div.f4{
+            display: inline;
+        }
+        div.mb{
+            display:flex;
+            flex-wrap: wrap;
+            margin:0px 10%;
+        }
+        div.jn{
+            border: 1px solid white;
+            width: 300px;
+            height:370px;
+            padding:10px;
+            margin-left: 10px;
+            margin-bottom: 60px;
+            border: none;
+            outline: 1px solid white;
+            box-shadow: 0px 8px 8px 0px lightgray;
+            outline: none;
+        }
+        div.jn img{
+            width:250px;
+            height:210px;
+            position: relative;
+            left: 15px;
+            top: 15px;
+            box-shadow: 0px 8px 8px 0px lightgrey;
+        }
+        div.jn button{
+            margin:0px 33%;
+            color: white;
+            background-color:blue;
+        }
+        div.jn h2{
+            text-align: center;
+        }
+        
+        .overall{
+            background-color: #F5F5F5;
+            margin: 0%;
+            margin-top:0%;
+        }
+        .f3{
+            margin-bottom: 0%;
+        }
